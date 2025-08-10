@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm  jayasurya<br>🎓 I'm a Master's student currently studying mechatronics engineering.  <br>🐍 Skilled in Python and apply AI in real-world scenarios .<br>🌱 Currently learning: ML , Deep Learning, Data Analysis. <br>
+👋 Hi, I'm  jayasurya<br>🎓 I'm a Master's student currently studying mechatronics engineering.  <br>🐍 Skilled in Python and apply AI in real-world scenarios .<br>🌱 Currently learning: ML ,Data Analysis. <br>
 
 
 ## 🌐 Socials:
